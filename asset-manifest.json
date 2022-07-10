@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-project/static/css/main.e53a19fb.css",
+    "main.js": "/React-project/static/js/main.9ab43de9.js",
+    "static/js/787.a2bf511c.chunk.js": "/React-project/static/js/787.a2bf511c.chunk.js",
+    "static/media/pngwing.com.png": "/React-project/static/media/pngwing.com.44f03885741592fe8524.png",
+    "index.html": "/React-project/index.html",
+    "main.e53a19fb.css.map": "/React-project/static/css/main.e53a19fb.css.map",
+    "main.9ab43de9.js.map": "/React-project/static/js/main.9ab43de9.js.map",
+    "787.a2bf511c.chunk.js.map": "/React-project/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e53a19fb.css",
+    "static/js/main.9ab43de9.js"
+  ]
+}
